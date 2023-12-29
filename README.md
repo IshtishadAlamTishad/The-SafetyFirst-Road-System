@@ -2,7 +2,7 @@
 After months of hard work, dedication, and collaborative brilliance, we successfully presented and defended our Graphics project with flying colors. Gratitude to our exceptional team for their hard work and dedication. 
 Onward to new milestones and opportunities! 📌
 
-NB : **I used trafficSound.wav as a background traffic sound. The Audio size is huge. So, for adding sound just download any traffic sound as .wav format then paste the .wav audio into bin folder**
+NB : **I used trafficSound.wav as a background traffic sound. The Audio size is huge. So, for adding sound just download any traffic sound as .wav format then paste the .wav audio into bin->Debug folder**
 
 ## Introduction:
 The primary objective of this graphical project is to develop a safety road system tailored for emergency situations. The project encompasses user engagement with dynamic elements, including but not limited to, car movement, firing effects, emergency response vehicles, traffic signal
