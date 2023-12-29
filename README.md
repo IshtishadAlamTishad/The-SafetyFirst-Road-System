@@ -1,7 +1,8 @@
 # Project name : "Safety-first Road System"
 After months of hard work, dedication, and collaborative brilliance, we successfully presented and defended our Graphics project with flying colors. Gratitude to our exceptional team for their hard work and dedication. 
 Onward to new milestones and opportunities! 📌
-NB: The first scenario includes Traffic Sound
+
+NB : **I used trafficSound.wav as a background traffic sound. The Audio size is huge. So, for adding sound just download any traffic sound as .wav format then paste the .wav audio into bin folder**
 
 ## Introduction:
 The primary objective of this graphical project is to develop a safety road system tailored for emergency situations. The project encompasses user engagement with dynamic elements, including but not limited to, car movement, firing effects, emergency response vehicles, traffic signal
@@ -13,6 +14,7 @@ transitions, day-night cycles, and an interactive gate. Its overarching goal is 
 https://github.com/IshtishadAlamTishad/The-SafetyFirst-Road-System/assets/96460346/5d2e61b2-b8d9-4365-acb6-286d5567d0bb
 
 Youtube Link : [SafetyFirst_Road_System](https://youtu.be/9k__11e2oLk?si=8WmwgPofZaIyrHgS)
+
 
 
 ## Project Scenarios:
